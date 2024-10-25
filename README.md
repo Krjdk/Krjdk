@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitin
-- 👀 I’m interested in learning new programming languages, making projects with abunch of tech enthusiast.
+- 👀 I’m interested in learning new programming languages, making projects with a bunch of tech enthusiast.
 - 🌱 I’m currently learning c programming (I am a newbie).
 - 💞️ I’m looking to collaborate on any project that would enhance my skills and help me develop skills.
 - 📫 You can reach me on this platform or via email or any social.
